@@ -1,0 +1,1 @@
+A versatile toolkit has been developed with the aim of comprehensively evaluating the financial, operational, and overall business performance of a diverse range of company types, encompassing partnerships, sole proprietorships, and corporations.
