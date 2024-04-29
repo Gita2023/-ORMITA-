@@ -1,9 +1,8 @@
 import pandas as pd 
-import companyMod as cm
 
 # function that concatenates multiple instances of a company (different periods)
 def multi_period_table(*in_objs):
-    # initialze data frame
+    # initialize data frame
     df_multi_period = pd.DataFrame()
     # for every provided object append it 
     for in_obj in in_objs:
